@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome to Lagrange!
+title: Avi Mahajan :: About
 permalink: /about
 ---
 
