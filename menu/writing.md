@@ -1,5 +1,5 @@
 ---
 layout: archive
-title: Avi Mahajan :: writing
+title: writing
 permalink: /writing
 ---

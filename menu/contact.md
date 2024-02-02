@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Avi Mahajan :: contact
+title: contact
 permalink: /contact
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Avi Mahajan :: About
+title: about
 permalink: /about
 ---
 
